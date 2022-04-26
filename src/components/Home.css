@@ -1,0 +1,30 @@
+.main-container-home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.second-container-home {
+  display: flex;
+}
+
+.second-container-home img {
+  height: 100vh;
+}
+
+.left-home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 0 20px;
+}
+
+.left-home button {
+  margin: 25px 0;
+  font-size: xx-large;
+  padding: 13px 35px;
+  color: #006238;
+  border-radius: 20px;
+  border: 3px solid #006238;
+}

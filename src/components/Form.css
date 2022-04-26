@@ -1,0 +1,23 @@
+.maincantainer-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+.maincantainer-form form {
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 5px;
+}
+.maincantainer-form input {
+    margin: 10px;
+    padding: 5px;
+
+}
+
+.maincantainer-form #submit{
+    padding: 5px 17px;
+    position: relative;
+    left: 90px;
+}
